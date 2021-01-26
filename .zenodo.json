@@ -1,0 +1,21 @@
+{
+    "title": "A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Nagaraja KS, Sidwell P &amp; Greenhill SJ. 2013. A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War. Mon-Khmer Studies Journal, 42, 1-11.</p>\n</blockquote>"
+}
