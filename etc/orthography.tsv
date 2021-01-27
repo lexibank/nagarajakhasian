@@ -1,0 +1,195 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+a	a	kʰmat, san	PnarJaintia, Khasi, Lyngngam, Palaung, WarLamin, Khmu	100	U+0061
+i	i	sim, tiʔ	Khasi, Lyngngam, PnarJaintia, WarLamin, Khmu, Palaung	100	U+0069
+ʔ$	ʔ	tʰaʔ, tiʔ	Khmu, WarLamin, Khasi, PnarJaintia, Lyngngam, Palaung	100	U+0294 U+0024
+e	e	ʃeptieŋ, deʔ	Khasi, Lyngngam, WarLamin, PnarJaintia, Khmu, Palaung	100	U+0065
+ə	ə	kəʔaŋ, kətəm	Palaung, WarLamin, Khmu, Lyngngam, PnarJaintia	100	U+0259
+ŋ$	ŋ	pʰlaŋ, puŋ	Lyngngam, Khmu, Khasi, Palaung, WarLamin, PnarJaintia	100	U+014b U+0024
+^s	s	sim, saw	Khasi, PnarJaintia, Lyngngam, WarLamin, Khmu, Palaung	100	U+005e U+0073
+t$	t	kɟat, kʰmat	Lyngngam, Khasi, WarLamin, Palaung, PnarJaintia, Khmu	100	U+0074 U+0024
+n	NULL	snam, snɪəʔ	Lyngngam, Khasi, WarLamin, PnarJaintia, Khmu, Palaung	100	U+006e
+^k	k	kɟat, kdʒat	Palaung, Lyngngam, Khasi, Khmu, PnarJaintia, WarLamin	100	U+005e U+006b
+m$	m	sim, snam	Palaung, Lyngngam, Khasi, WarLamin, PnarJaintia, Khmu	100	U+006d U+0024
+ɨ	ɨ	pɨrkʰat, tʰɨlloʲt	Lyngngam, Khasi, Khmu	100	U+0268
+r	r	duriaw, mraːd	WarLamin, Khmu, Lyngngam, Palaung, Khasi, PnarJaintia	99	U+0072
+o	o	ʔom, sor	Lyngngam, Khasi, Khmu, Palaung, PnarJaintia	93	U+006f
+^t	t	tiʔ, ti	WarLamin, Khasi, PnarJaintia, Khmu, Lyngngam, Palaung	91	U+005e U+0074
+r$	r	sor, θәbәnɪar	Palaung, Lyngngam, Khmu, PnarJaintia, Khasi, WarLamin	89	U+0072 U+0024
+m	m	kʰmat, ʔom hmpuːt	Khmu, Lyngngam, WarLamin, Khasi, PnarJaintia, Palaung	83	U+006d
+u	u	pum-pum, duriaw	Palaung, Lyngngam, Khasi, Khmu, PnarJaintia	83	U+0075
+^p	p	pa, puŋ	Palaung, WarLamin, Khmu, PnarJaintia, Khasi, Lyngngam	80	U+005e U+0070
+l	l	pʰlaŋ, slap	PnarJaintia, Khmu, Palaung, Khasi, WarLamin, Lyngngam	71	U+006c
+a$	a	ha, pa	WarLamin, Khasi, PnarJaintia, Lyngngam, Palaung	67	U+0061 U+0024
+^h	h	ha, he	Khmu, Palaung, Khasi, WarLamin, PnarJaintia, Lyngngam	67	U+005e U+0068
+n$	n	san, rben	WarLamin, PnarJaintia, Khmu, Palaung, Lyngngam, Khasi	67	U+006e U+0024
+_	_	di par ta dɪəŋ, di par ta mɒn	WarLamin, Khmu, PnarJaintia, Lyngngam, Khasi, Palaung	62	U+005f
+^l	l	laj, lada	PnarJaintia, Khmu, Lyngngam, Khasi, WarLamin, Palaung	61	U+005e U+006c
+j$	j	laj, aj	Khasi, Lyngngam, Khmu, Palaung, PnarJaintia	60	U+006a U+0024
+^d	d	duriaw, dieŋ	Khasi, PnarJaintia, Khmu, Lyngngam, WarLamin, Palaung	60	U+005e U+0064
+i$	i	sŋi, ksi	PnarJaintia, Khasi, WarLamin, Palaung, Lyngngam	55	U+0069 U+0024
+t	t	staŋ, kɨrteŋ	WarLamin, Lyngngam, PnarJaintia, Khmu, Khasi, Palaung	55	U+0074
+^m	m	mi, mraːd	Khmu, Lyngngam, Palaung, WarLamin, Khasi, PnarJaintia	54	U+005e U+006d
+ɔ	ɔ	bɔh, lɔk	PnarJaintia, Palaung, Khmu	53	U+0254
+ŋ	ŋ	sŋi, tŋa	Lyngngam, Khasi, WarLamin, Khmu, PnarJaintia, Palaung	53	U+014b
+^r	r	rben, rim	WarLamin, Palaung, Khasi, Lyngngam, PnarJaintia, Khmu	52	U+005e U+0072
+^b	b	bɔh, bakʰim	Khasi, Palaung, PnarJaintia, Lyngngam, Khmu, WarLamin	47	U+005e U+0062
+^kʰ	kʰ	kʰmat, kʰlor	Khasi, PnarJaintia, Lyngngam, Palaung, Khmu, WarLamin	47	U+005e U+006b U+02b0
+ʔ	ʔ	pʔut, lʔoʔ	Khasi, PnarJaintia, Lyngngam, WarLamin, Khmu, Palaung	47	U+0294
+d	d	bad don, lada	Lyngngam, PnarJaintia, Khasi, WarLamin, Khmu, Palaung	45	U+0064
+ɪ	ɪ	nɪa, θәbәnɪar	WarLamin, PnarJaintia	43	U+026a
+w$	w	duriaw, saw	Lyngngam, Khasi, PnarJaintia, Khmu	37	U+0077 U+0024
+^j	j	jəm, joŋ	Khasi, PnarJaintia, Palaung, Khmu, Lyngngam, WarLamin	37	U+005e U+006a
+k$	k	lɔk, lɒk	Khmu, Lyngngam, PnarJaintia, WarLamin, Khasi, Palaung	34	U+006b U+0024
+p$	p	slap, hap	Khasi, Lyngngam, PnarJaintia, Palaung, WarLamin, Khmu	34	U+0070 U+0024
+^ɟ	ɟ	ɟɯŋ, ɟŋi	Lyngngam, Palaung, Khasi, Khmu	33	U+005e U+025f
+aː	aː	mraːd, laːŋ	Khmu, Khasi, PnarJaintia, Lyngngam	31	U+0061 U+02d0
+^n	n	noːd, nɪa	Lyngngam, WarLamin, Khmu, Palaung, Khasi, PnarJaintia	30	U+005e U+006e
+h$	h	bɔh, muh	Khmu, Palaung	30	U+0068 U+0024
+b	b	rben, θәbәnɪar	Lyngngam, WarLamin, Khmu, PnarJaintia, Khasi, Palaung	30	U+0062
+^ʔ	ʔ	ʔam, ʔom	Khmu, Palaung, WarLamin, PnarJaintia	30	U+005e U+0294
+e$	e	he, me	Palaung, Khasi, PnarJaintia, Lyngngam, WarLamin	29	U+0065 U+0024
+^tʰ	tʰ	tʰaʔ, tʰaŋ	PnarJaintia, Lyngngam, Khasi, WarLamin, Palaung	29	U+005e U+0074 U+02b0
+p	p	om pjo pjo, pum-pum	WarLamin, Khasi, Khmu, Lyngngam, PnarJaintia, Palaung	28	U+0070
+j	j	om pjo pjo, tjəriəʔ	WarLamin, Palaung, Lyngngam, Khasi, PnarJaintia, Khmu	27	U+006a
+ʊ	ʊ	tʊ tʊn, bʊə	WarLamin	26	U+028a
+nn	nn	ɨnnoŋ, dinniʔ	Lyngngam, Khasi	25	U+006e U+006e
+ɒ	ɒ	tɒʔ, lɒk	WarLamin	24	U+0252
+ɛ	ɛ	tʰawanɛr, pɛr	PnarJaintia, Palaung, Khmu	24	U+025b
+ɲ$	ɲ	bseɲ, teʲɲ	PnarJaintia, Khmu, Lyngngam, Khasi	21	U+0272 U+0024
+^g	g	gatʰoʔ, giː	Khmu, Lyngngam, Palaung	21	U+005e U+0067
+d$	d	mraːd, noːd	Khasi, PnarJaintia, Lyngngam	20	U+0064 U+0024
+^pʰ	pʰ	pʰlaŋ, pʰiaʔ	Palaung, Khasi, PnarJaintia, Lyngngam, Khmu	20	U+005e U+0070 U+02b0
+-	<?>	pum-pum, dum-lʔoʔ	Lyngngam, Khasi, Palaung	19	U+002d
+ə$	ə	bʊə, klɒŋ rnʊə	WarLamin, Palaung, Khmu, Lyngngam	17	U+0259 U+0024
+^ʃ	ʃ	ʃkor, ʃʔɪəʔ	Khasi, WarLamin	17	U+005e U+0283
+k	k	ʃkor, tʃkɔr	Khmu, Lyngngam, Khasi, PnarJaintia, WarLamin	17	U+006b
+ll	ll	kɨlla, tʰɨlloʲt	Lyngngam, Khasi, WarLamin	17	U+006c U+006c
+^w	w	wa, wan	PnarJaintia, Khasi, Khmu, Lyngngam, WarLamin	16	U+005e U+0077
+^ɨ	ɨ	ɨnnoŋ, ɨntʰak	Lyngngam, Khasi	16	U+005e U+0268
+kʰ	kʰ	pɨrkʰat, bakʰim	PnarJaintia, Khasi, Lyngngam	15	U+006b U+02b0
+ɔː	ɔː	plɔːŋ, sʔɔːŋ	Khmu	14	U+0254 U+02d0
+u$	u	bu, sŋu	PnarJaintia, Palaung, Lyngngam	14	U+0075 U+0024
+ɯ	ɯ	ɟɯŋ, pʰɯm	Palaung	14	U+026f
+ә	<?>	θәbәnɪar, tvɪәŋ	WarLamin	14	U+04d9
+ʊ$	ʊ	sʊ, khirʊ	WarLamin	13	U+028a U+0024
+v	v	khvi, tvɪәŋ	WarLamin, Palaung	12	U+0076
+w	w	tʰawanɛr, nɛːw məʔ	Lyngngam, PnarJaintia, Khasi, Khmu	12	U+0077
+uː	uː	truːd, guːɲ	Khmu, Khasi	12	U+0075 U+02d0
+aː$	aː	ʔaː, waː	WarLamin, Khmu	11	U+0061 U+02d0 U+0024
+o$	o	so, mo	PnarJaintia, Palaung, Khasi	11	U+006f U+0024
+^ks	ks	ksi, ksiʔ	WarLamin, PnarJaintia, Khasi, Lyngngam	11	U+005e U+006b U+0073
+^c	c	cit, con	Khmu, PnarJaintia, Palaung, Lyngngam	11	U+005e U+0063
+tʰ	tʰ	gatʰoʔ, ʃoʔ tʰaʔ	Lyngngam, Khasi, PnarJaintia	11	U+0074 U+02b0
+ɟ	ɟ	kɟat, kɟuh	Lyngngam, Khasi, PnarJaintia, Khmu, Palaung	11	U+025f
+ɲ	ɲ	pɨnɲap, sɲiuʔ	Lyngngam, Khmu, Khasi, PnarJaintia	10	U+0272
+^u	u	um, uwew	Lyngngam, Khasi, WarLamin, PnarJaintia, Palaung	10	U+005e U+0075
+^ŋ	ŋ	ŋa, ŋiat	Khasi, Palaung, PnarJaintia, Khmu, WarLamin	10	U+005e U+014b
+^kh	kʰ	khvi, khlɪəʔ	WarLamin, Khmu	10	U+005e U+006b U+0068
+^i	i	im, i a	Khasi, Palaung, PnarJaintia, Lyngngam, WarLamin	9	U+005e U+0069
+h	h	luəŋ ham, tah-diat	Khmu, Lyngngam, WarLamin, Palaung	8	U+0068
+n̩	n̩	rn̩kʰi, pn̩jap	PnarJaintia	8	U+006e U+0329
+^a	a	ar, aj	PnarJaintia, Lyngngam, Khasi, Palaung	8	U+005e U+0061
+^ʧ	tʃ	ʧəmet, ʧəpɪə	WarLamin, PnarJaintia	8	U+005e U+02a7
+mm	mm	tʰɨmmaj, kammɔn	Lyngngam, PnarJaintia, Khmu, Khasi	8	U+006d U+006d
+^ə	ə	əpaw, əlliʔ	Lyngngam, Palaung	7	U+005e U+0259
+^ɲ	ɲ	ɲiam, ɲinnap	Khmu, Khasi, PnarJaintia, Lyngngam, Palaung	7	U+005e U+0272
+s	s	kloŋ snam, ɟosmoʲt	PnarJaintia, Lyngngam, Khasi, WarLamin	7	U+0073
+oː	oː	noːd, ʔom kloːn	Khmu, PnarJaintia, Lyngngam	6	U+006f U+02d0
+ns	ns	bɨnsir, riŋ ɨnsom	Lyngngam, WarLamin, Khasi	6	U+006e U+0073
+ɔ$	ɔ	mɔ, jɔ	Palaung	6	U+0254 U+0024
+l$	l	hɨəl, hmbɨl	Khmu	6	U+006c U+0024
+^tʃ	tʃ	tʃkɔr, tʃeiwʌn	PnarJaintia	6	U+005e U+0074 U+0283
+^u$	u	u	PnarJaintia, WarLamin, Palaung, Khasi	6	U+005e U+0075 U+0024
+ɛː	ɛː	nɛːw məʔ, mɛːn	Khmu	6	U+025b U+02d0
+^v	v	vər, van	Palaung, WarLamin	5	U+005e U+0076
+c$	c	mec, dɨc	Khmu	5	U+0063 U+0024
+^dʒ	dʒ	dʒrɔŋ, dʒan	PnarJaintia	5	U+005e U+0064 U+0292
+əː	əː	hndrəːj, məːj	Khmu	5	U+0259 U+02d0
+ɛ$	ɛ	ʔɛ, kənmɛ	Palaung	5	U+025b U+0024
+ɯ$	ɯ	ʔɯ, gɯ	Palaung	5	U+026f U+0024
+dʒ	dʒ	kdʒat, lai kdʒat	PnarJaintia	4	U+0064 U+0292
+^cʰ	cʰ	cʰʔjap, cʰoŋ	Lyngngam, Khmu	4	U+005e U+0063 U+02b0
+oʲ	oʲ	tʰɨlloʲt, ɟosmoʲt	Lyngngam	4	U+006f U+02b2
+l̩	l̩	tʰl̩leiʔ, tl̩le	PnarJaintia	4	U+006c U+0329
+θ	θ	pәrθa, hənθa	WarLamin	4	U+03b8
+^θ	θ	θәbәnɪar, θɪəʔ	WarLamin	4	U+005e U+03b8
+g	g	trgət, je ge	Khmu, Palaung	4	U+0067
+rr	rr	tɨrraj, pɨrraw	Lyngngam	4	U+0072 U+0072
+^ʰm	ʰm	ʰmaːr, ʰmaŋ	Khmu	4	U+005e U+02b0 U+006d
+cʰ	cʰ	kɨncʰa, kɨrcʰut	Lyngngam	3	U+0063 U+02b0
+aʲ	aʲ	ɟɨmbaʲt, ɟimbaʲt	Lyngngam, Khasi	3	U+0061 U+02b2
+pʰ	pʰ	lɨmpʰar, tjəlpʰʊʔ	PnarJaintia, Lyngngam, WarLamin	3	U+0070 U+02b0
+Ɂ$	Ɂ	hjɔɁ, sɔɁ	Palaung	3	U+0241 U+0024
+aːʲ	aːʲ	sʔaːʲd, jaːʲd	Khasi	3	U+0061 U+02d0 U+02b2
+ʃ	ʃ	jaʃoʔ, raʃiŋ	Khasi, WarLamin	3	U+0283
+r̩	r̩	kr̩tʃut, pr̩tuid	PnarJaintia	3	U+0072 U+0329
+^ʰr	ʰr	ʰroŋ, ʰraːŋ	Khmu	3	U+005e U+02b0 U+0072
+s$	s	lɔs, kʰras	Khmu	3	U+0073 U+0024
+^ɪ	ɪ	ɪəm, ɪəhe	WarLamin, PnarJaintia	3	U+005e U+026a
+m̩	m̩	jm̩pa, tʰm̩me	PnarJaintia	3	U+006d U+0329
+^ps	ps	psen, pseiɲ	PnarJaintia, Khmu, WarLamin	3	U+005e U+0070 U+0073
+^o	o	om, oŋ	Palaung, Khasi	3	U+005e U+006f
+ʌ	ʌ	tʃeiwʌn, tʃʔɛʌp	PnarJaintia	3	U+028c
+ɒ͂	ɒ͂	kɒ͂m, mərkɒ͂ŋ	WarLamin	2	U+0252 U+0342
+kh	kʰ	səŋkhraʔ, pərkhat	Khmu, WarLamin	2	U+006b U+0068
+iː	iː	siːw, siːm	Khmu	2	U+0069 U+02d0
+^e	e	-ej, eŋaj	Lyngngam, Khasi	2	U+005e U+0065
+^ʰl	ʰl	ʰlon, ʰlaʔ	Khmu	2	U+005e U+02b0 U+006c
+eʲ	eʲ	teʲɲ, meʲm	PnarJaintia, Lyngngam	2	U+0065 U+02b2
+tʃ	tʃ	kr̩tʃut, jatʃɔʔ	PnarJaintia	2	U+0074 U+0283
+eː	eː	teːr, leːw	Khmu	2	U+0065 U+02d0
+oːʲ	oːʲ	sɨn-toːʲd, toːʲd	PnarJaintia, Lyngngam	2	U+006f U+02d0 U+02b2
+^bʰ	bʰ	bʰa	PnarJaintia, Khasi	2	U+005e U+0062 U+02b0
+eː$	eː	tineː, meː	Khmu, WarLamin	2	U+0065 U+02d0 U+0024
+iː$	iː	giː, daʔ giː	Khmu	2	U+0069 U+02d0 U+0024
+ә$	<?>	ŋә, nimә	WarLamin	2	U+04d9 U+0024
+c	c	bərcɯ, rmcɛh	Khmu, Palaung	2	U+0063
+^rw	rw	rwaj, rwai	PnarJaintia, Khasi	2	U+005e U+0072 U+0077
+^bs	bs	bseɲ	Lyngngam, Khasi	2	U+005e U+0062 U+0073
+^ph	pʰ	phit, phədat	WarLamin	2	U+005e U+0070 U+0068
+ɔː$	ɔː	nɔː, bɔː	Khmu	2	U+0254 U+02d0 U+0024
+oː$	oː	toː	Khmu	1	U+006f U+02d0 U+0024
+bʰ	bʰ	neibʰaʔ	PnarJaintia	1	U+0062 U+02b0
+rs	rs	pɨrsat	Khasi	1	U+0072 U+0073
+n̩s	n̩s	rɪɲ mn̩seim	PnarJaintia	1	U+006e U+0329 U+0073
+^ɵ	ɵ	ɵaŋ	WarLamin	1	U+005e U+0275
+^rh	rh	rhɪəŋ	WarLamin	1	U+005e U+0072 U+0068
+і$	<?>	sʔі	WarLamin	1	U+0456 U+0024
+dʒʲ	dʒʲ	kʰadʒʲak	PnarJaintia	1	U+0064 U+0292 U+02b2
+uːʲ	uːʲ	tuːʲd	Khasi	1	U+0075 U+02d0 U+02b2
+n̩h	n̩h	pn̩hɛr	PnarJaintia	1	U+006e U+0329 U+0068
+ɨː	ɨː	tɨːr	Khmu	1	U+0268 U+02d0
+ŋŋ	ŋŋ	tɨŋŋam	Lyngngam	1	U+014b U+014b
+^e$	e	e	PnarJaintia	1	U+005e U+0065 U+0024
+rʰ	rʰ	mɨrrʰiaŋ	Lyngngam	1	U+0072 U+02b0
+ɲʲ	ɲʲ	sɲʲoʔ	PnarJaintia	1	U+0272 U+02b2
+əː$	əː	gəː	Khmu	1	U+0259 U+02d0 U+0024
+ã	ã	sãʔ	WarLamin	1	U+00e3
+^ɔ	ɔ	ɔp	Palaung	1	U+005e U+0254
+^m̩$	m̩	m̩	PnarJaintia	1	U+005e U+006d U+0329 U+0024
+ps	ps	kɔpsar	PnarJaintia	1	U+0070 U+0073
+ü$	ü	brü	Lyngngam	1	U+00fc U+0024
+ŋh	ŋh	tŋhɔːj	Khmu	1	U+014b U+0068
+^kʰw	kʰw	kʰwa	Palaung	1	U+005e U+006b U+02b0 U+0077
+^tw	tw	twar	Lyngngam	1	U+005e U+0074 U+0077
+rʃ	rʃ	kɨrʃut	Khasi	1	U+0072 U+0283
+ʧ	tʃ	kənʧʊt	WarLamin	1	U+02a7
+^ɛ	ɛ	ɛm	Palaung	1	U+005e U+025b
+ŋw	ŋw	rɨŋwi	Lyngngam	1	U+014b U+0077
+^lw	lw	lwaːŋ	Khmu	1	U+005e U+006c U+0077
+ĩ	ĩ	ʃitjĩŋ	WarLamin	1	U+0129
+^ñ	ɲ	ñiəŋ	Lyngngam	1	U+005e U+00f1
+ñ$	ɲ	deiñ	PnarJaintia	1	U+00f1 U+0024
+̃	<?>	deiñ	PnarJaintia	1	U+0303
+^ʰn	ʰn	ʰnaːj	Khmu	1	U+005e U+02b0 U+006e
+r̩̩	r̩	pr̩̩kʰat	PnarJaintia	1	U+0072 U+0329 U+0329
+ɟ$	ɟ	tʰɨllieɟ	Khasi	1	U+025f U+0024
+^a:	aː	a:r	Khasi	1	U+005e U+0061 U+003a
+ʊ͂	ʊ͂	ʔʊ͂ə	WarLamin	1	U+028a U+0342
+nʃ	nʃ	ɨnʃit	Lyngngam	1	U+006e U+0283
+^i$	i	i	PnarJaintia	1	U+005e U+0069 U+0024
+^ɟʰ	ɟʰ	ɟʰieʔ	Khasi	1	U+005e U+025f U+02b0
+^dʒh	dʒh	dʒheiʔ	PnarJaintia	1	U+005e U+0064 U+0292 U+0068
+^n̩	n̩	n̩nu	PnarJaintia	1	U+005e U+006e U+0329

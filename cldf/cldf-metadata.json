@@ -12,7 +12,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War",
+    "dcat:accessURL": "https://github.com/lexibank/nagarajakhasian",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/nagarajakhasian",
+            "dc:created": "83a03b2"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -251,7 +258,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 1179,
+            "dc:extent": 1141,
             "tableSchema": {
                 "columns": [
                     {
