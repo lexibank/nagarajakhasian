@@ -16,7 +16,12 @@
             "name": "Simon J. Greenhill"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
