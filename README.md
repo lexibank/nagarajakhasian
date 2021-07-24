@@ -1,10 +1,18 @@
-# A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War
+# CLDF dataset derived from Nagaraja et al.'s "A Lexicostatistical Study of the Khasian Languages" from 2013
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/nagarajakhasian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/nagarajakhasian/actions?query=workflow%3ACLDF-validation)
 
-> Nagaraja KS, Sidwell P & Greenhill SJ. 2013. A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War. Mon-Khmer Studies Journal, 42, 1-11.
+## How to cite
 
-This dataset is licensed under a  Creative Commons Attribution License license
+If you use these data please cite
+- the original source
+  > Nagaraja KS, Sidwell P & Greenhill SJ. 2013. A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War. Mon-Khmer Studies Journal, 42, 1-11.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://mksjournal.org/
 
@@ -14,6 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/nagarajakhasian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/nagarajakhasian/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -42,3 +51,10 @@ Simon J. Greenhill | @SimonGreenhill | maintainer, data collection and annotatio
 Johann-Mattis List | @lingulist | orthography profile | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

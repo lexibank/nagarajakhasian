@@ -1,8 +1,8 @@
 {
     "id": "nagarajakhasian",
-    "title": "A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War",
+    "title": "CLDF dataset derived from Nagaraja et al.'s \"A Lexicostatistical Study of the Khasian Languages\" from 2013",
     "description": null,
-    "license": " Creative Commons Attribution License",
+    "license": "CC-BY-4.0",
     "url": "http://mksjournal.org/",
     "citation": "Nagaraja KS, Sidwell P & Greenhill SJ. 2013. A Lexicostatistical Study of the Khasian Languages: Khasi, Pnar, Lyngngam, and War. Mon-Khmer Studies Journal, 42, 1-11.",
     "aboutUrl": null,
