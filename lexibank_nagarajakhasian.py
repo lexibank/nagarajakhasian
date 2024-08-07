@@ -8,7 +8,7 @@ import pylexibank
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "nagarajakhasian"
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},  # characters that function as brackets

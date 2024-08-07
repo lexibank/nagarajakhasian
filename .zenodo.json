@@ -18,8 +18,12 @@
     ],
     "contributors": [
         {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
         }
     ],
     "communities": [
