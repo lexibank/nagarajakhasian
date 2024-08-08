@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 6
-- **Concepts:** 200
+- **Varieties:** 6 (linked to 6 different Glottocodes)
+- **Concepts:** 200 (linked to 200 different Concepticon concept sets)
 - **Lexemes:** 1,214
 - **Sources:** 1
 - **Synonymy:** 1.03
@@ -38,7 +38,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.45
 - **Invalid lexemes:** 0
 - **Tokens:** 4,701
-- **Segments:** 85 (0 BIPA errors, 0 CTLS sound class errors, 85 CLTS modified)
+- **Segments:** 85 (0 BIPA errors, 0 CLTS sound class errors, 85 CLTS modified)
 - **Inventory size (avg):** 42.50
 
 # Contributors
@@ -47,8 +47,8 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 K. S. Nagaraja | | data collection and annotation | Author
 Paul Sidwell | | data collection and annotation | Author
-Simon J. Greenhill | @SimonGreenhill | maintainer, data collection and annotation | Author
-Johann-Mattis List | @lingulist | orthography profile | Other
+Simon J. Greenhill | @SimonGreenhill | maintainer, data collection and annotation | Author, Editor
+Johann-Mattis List | @lingulist | orthography profile | Editor
 
 
 
